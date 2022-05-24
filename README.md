@@ -1,4 +1,4 @@
-Benvenuto nel nostro progetto di forza 4, il nostro obbiettivo è di imitare il famoso gioco Forza 4 rendendolo in digitale. 
+Benvenuto nel nostro progetto di forza 4, il nostro obbiettivo è di imitare il famoso gioco Forza 4 rendendolo in digitale. Questo progetto è stato realizzato 2 anni fa con dei miei amici. 
 Nella mia repository puoi notare un sacco di file e cartelle ma per far funzionare il progetto sarà neccessario il file con estensione .cs(utilizzato nel linguaggio csharp), .png(sono le immagini) e per ultimo .sln(Visual studio solution).
 Inoltre si raccomanda che utilizziate la applicazione Visual Studio nella versione più recente (per evitare problemi di compatibilità) per leggere ed editare il codice in C#.
 Per aprire un file in visual studio si utilizza il file "Forza4.sln" che apre direttamente il file con il codice e le soluzioni neccessarie ad eseguirlo e giocarci. 
